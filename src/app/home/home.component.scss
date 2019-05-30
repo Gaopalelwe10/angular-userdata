@@ -1,0 +1,19 @@
+
+h1{
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right:auto;
+    width:50%;
+}
+th{
+    background:black;
+    color:white;
+}
+table tr:nth-child(odd){
+    background: gray;
+}
+table , th ,td{
+    border:1px solid black;
+}
